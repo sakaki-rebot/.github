@@ -1,3 +1,2 @@
 # Sakaki Rebot:
-<a href=""
-  >Website<a>
+<a href="">Website<a>
